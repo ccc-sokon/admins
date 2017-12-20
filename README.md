@@ -1,1 +1,1 @@
-# [Members Page](http://members.sokon.jp)
+# [Admins Page](http://admins.sokon.jp)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Scrapbox
-description: Slackマニュアルなどの資料
+title: Scrapbox (役職者用)
+description: 役職者間の資料共有
 image: assets/images/scrapbox.png
-link: https://scrapbox.io/sokon/
+link: https://scrapbox.io/sokon-admins/
 ---
 
 - 管理者: システム管理係
