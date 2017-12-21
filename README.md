@@ -1,1 +1,0 @@
-# [Admins Page](http://admins.sokon.jp)
