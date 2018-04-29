@@ -6,6 +6,7 @@ image: assets/images/scrapbox.png
 link: https://scrapbox.io/sokon-admins/
 ---
 
-- 管理者: システム管理係
-- 編集権限: 役職者
+- 運用責任者: 幹事長
+- 運用者: 役職者
+    - 編集権限あり
 - 該当チャンネル: [#ex_system](https://sokon.slack.com/messages/C4KPRMYSU/)

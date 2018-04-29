@@ -6,8 +6,8 @@ image: assets/images/classroom_system.png
 link: https://docs.google.com/spreadsheets/d/1-aYjYnu_IzwWzPZfQVZlb5oN2yUJesuB65XNeplEqnw
 ---
 
-- 管理者: システム管理係
-- 権限
+- 運用責任者: システム管理係
+- 運用者
     - 書記、副書記:
         - 全てのツールの使用
 - 該当チャンネル: [#ex_recorder](https://sokon.slack.com/messages/C4FUFR7S9/)
