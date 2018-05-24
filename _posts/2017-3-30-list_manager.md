@@ -7,15 +7,5 @@ link: https://docs.google.com/spreadsheets/d/1eHwnGnnzvR2kQ4lLmlCcqt3xmzDE9ZuDqJ
 ---
 
 - 管理者: システム管理係
-- 権限
-    - 三役:
-        - 全ての個人情報の閲覧
-        - 名簿以外の編集
-        - 入退会申請の受理
-        - メール以外のツールの使用
-        - 役職者の権限
-    - 役職者:
-        - 基本的な個人情報の閲覧
-        - チェックリストの使用
-        - フィルタリングツールの使用
+- 運用者: 役員 役員補佐
 - 該当チャンネル: [#ex_system](https://sokon.slack.com/messages/C4KPRMYSU/)

@@ -7,7 +7,5 @@ link: https://docs.google.com/spreadsheets/d/1-aYjYnu_IzwWzPZfQVZlb5oN2yUJesuB65
 ---
 
 - 管理者: システム管理係
-- 権限
-    - 書記、副書記:
-        - 全てのツールの使用
+- 運用者: 役員 役員補佐
 - 該当チャンネル: [#ex_recorder](https://sokon.slack.com/messages/C4FUFR7S9/)
