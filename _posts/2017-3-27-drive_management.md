@@ -1,0 +1,12 @@
+---
+layout: post
+title: 運営フォルダ
+description: 運営に関する資料、Slackログ、引継資料、素材
+image: assets/images/google_drive.png
+link: https://drive.google.com/drive/folders/0B4hryXPrSmDUd0xQS0tlQWwwbjg
+---
+
+- 運用責任者: システム管理係
+- 運用者: 役職者
+    - 編集権限あり
+- 該当チャンネル: [#ex_system](https://sokon.slack.com/messages/C4KPRMYSU/)
