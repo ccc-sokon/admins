@@ -1,12 +1,8 @@
 ---
 layout: post
-title: 運営フォルダ
-description: 運営に関する資料、Slackログ、引継資料、素材
+title: 運営
+description: 運営資料、新歓・学祭資料、フォーム、引継資料、Slackログ、素材
 image: assets/images/google_drive.png
 link: https://drive.google.com/drive/folders/0B4hryXPrSmDUd0xQS0tlQWwwbjg
+description_link: https://scrapbox.io/sokon-admins/Google_Drive
 ---
-
-- 運用責任者: システム管理係
-- 運用者: 役職者
-    - 編集権限あり
-- 該当チャンネル: [#ex_system](https://sokon.slack.com/messages/C4KPRMYSU/)

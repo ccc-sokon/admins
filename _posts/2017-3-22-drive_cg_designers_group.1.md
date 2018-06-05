@@ -1,12 +1,8 @@
 ---
 layout: post
-title: モデリング班フォルダ
-description: モデリング班の資料、作品
+title: モデリング班
+description: モデリング班班長と役員のみアクセス可能
 image: assets/images/google_drive.png
 link: https://drive.google.com/drive/folders/17i0xCLC_s6pxaBwqrgDM23QoYH4dAjfM
+description_link: https://scrapbox.io/sokon-admins/Google_Drive
 ---
-
-- 運用責任者: システム管理係
-- 運用者: 役員、モデリング班班長
-    - 編集権限あり
-- 該当チャンネル: [#ex_system](https://sokon.slack.com/messages/C4KPRMYSU/)

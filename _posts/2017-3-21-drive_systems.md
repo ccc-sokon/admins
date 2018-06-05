@@ -1,11 +1,8 @@
 ---
 layout: post
-title: システムフォルダ
-description: サークル内システム置き場
+title: 事務システム
+description: 役員・役員補佐のみアクセス可能
 image: assets/images/google_drive.png
-link: https://drive.google.com/drive/folders/0B4hryXPrSmDUNFFOeFRzMEtTT28
+link: https://drive.google.com/drive/folders/1lMGbw6ybC_L1s2JLLa-de0GG0-txo0TZ?usp=sharing
+description_link: https://scrapbox.io/sokon-admins/Google_Drive
 ---
-
-- 運用責任者: システム管理係
-- 閲覧者: 役員
-- 該当チャンネル: [#ex_system](https://sokon.slack.com/messages/C4KPRMYSU/)
